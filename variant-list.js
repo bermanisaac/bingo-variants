@@ -1651,7 +1651,7 @@ let variant_list_data = [
         external_links:[
             {
                 name: "External Tool",
-                link: "https://kipahlord13.itch.io/celeste-wordle-bingo?secret=rG5vctHgLkSqyiKmltGXPiwCo54"
+                link: "https://isaac-ccom.itch.io/wordle-bingo"
             },
             {
                 name: "Ruleset",
